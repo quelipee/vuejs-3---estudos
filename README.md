@@ -1,4 +1,4 @@
-# <center>VueJS3</center>
+# <center>VueJS 3</center>
 
 ---
 
@@ -1013,7 +1013,7 @@ O componente filho define quais propriedades ele espera receber através do obje
    data(){
      return{
        variant: 'success',
-       text: 'Seu formulario foi enviado com sucesso!!';
+       text: 'Seu formulario foi enviado com sucesso!!'
      }
    },
    components:{
